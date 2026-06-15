@@ -187,13 +187,7 @@ export default function Testimonials() {
           ))}
         </div>
 
-        {/* شعارات الشركات الخفيفة (Social Proof) */}
-        <div className="mt-24 pt-16 border-t border-white/5 flex flex-wrap justify-center gap-10 md:gap-20 opacity-20 grayscale hover:grayscale-0 hover:opacity-50 transition-all duration-700">
-           <span className="font-black text-xl tracking-tighter">TECHFLOW</span>
-           <span className="font-black text-xl tracking-tighter">EIJAZ.CO</span>
-           <span className="font-black text-xl tracking-tighter">LOGISTIC</span>
-           <span className="font-black text-xl tracking-tighter">URBAN TECH</span>
-        </div>
+    
       </div>
     </section>
   );

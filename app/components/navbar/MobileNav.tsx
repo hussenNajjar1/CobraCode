@@ -44,7 +44,7 @@ export default function MobileNav() {
         </div>
 
         {/* أيقونة الكوبرا العائمة (مركز القوة البصري) */}
-        <div className="relative -top-12 mx-2">
+        <div className="relative -top-0 mx-2">
           {/* دائرة الخلفية المتوهجة */}
           <div className="absolute inset-0 bg-[#CAA060]/20 blur-2xl rounded-full" />
           

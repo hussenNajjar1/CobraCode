@@ -5,6 +5,7 @@ import Portfolio from "./components/portfolio/Portfolio";
 import CTA from "./components/cta/CTA";
 import Footer from "./components/footer/Footer";
 import Testimonials from "./components/Testimonials";
+import PricingPage from "./components/pricing";
 
 export default function Home() {
   return (
@@ -14,6 +15,7 @@ export default function Home() {
       <Portfolio/>
       <CTA/>
       <Testimonials/>
+      <PricingPage/>
       <Footer/>
 
 
