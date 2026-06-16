@@ -19,6 +19,10 @@ export default function Home() {
       <Footer/>
 
 
+
+    </div>
+  );
+}
      {/* <section className="bg-[#010102] py-16">
   <div className="max-w-6xl mx-auto px-6">
 
@@ -82,6 +86,3 @@ export default function Home() {
 
   </div>
 </section> */}
-    </div>
-  );
-}
